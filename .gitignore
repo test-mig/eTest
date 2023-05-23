@@ -1,0 +1,6 @@
+# IDE Project files
+/**/.project
+/**/.classpath
+/**/.settings
+/build/
+/target/
